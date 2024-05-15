@@ -55,6 +55,9 @@
         height: 300px;
         width: 100%;
     }
+    .introducao-bg{
+        box-shadow: none;
+    }
 }
 
 @media (max-width:800px){
