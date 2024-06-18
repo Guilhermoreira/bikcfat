@@ -29,6 +29,13 @@
     text-transform: uppercase;
     color: var(--cor-p5);
     font: 600 1.125rem/1.35 'Poppins';
+    max-width: max-content;
+}
+
+.titulo-bg{
+    background-color:var(--cor-11);
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .botao.secundario{
